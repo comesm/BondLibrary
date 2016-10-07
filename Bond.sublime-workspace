@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arra",
+				"arrangeDigits"
+			],
+			[
+				"count",
+				"countDivisors"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"Array",
+				"ArraySeq"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"largest",
+				"largestPalindrome"
+			],
+			[
+				"stringify",
+				"stringifyJSON"
+			],
+			[
+				"use",
+				"userTweet"
+			],
+			[
+				"strinigy",
+				"stringifyJSON"
+			],
+			[
+				"new",
+				"newTweet"
+			],
+			[
+				"get",
+				"getServerStuff"
+			],
+			[
+				"movie",
+				"movieLists"
+			],
+			[
+				"tweet",
+				"tweetObjs"
+			],
+			[
+				"memo",
+				"memoize"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"con",
+				"concatAll"
+			],
+			[
+				"movi",
+				"movieLists"
+			],
+			[
+				"For",
+				"for"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"debug((function(1,2) {return 1 + 2})()",
+			"node",
+			"console.log(\"this is a test\")",
+			"clear",
+			"clear()",
+			"_.memoize",
+			"_.memoize(add(3,4))",
+			"_.memoize(44)",
+			"1+1",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelcomes/Desktop/TestEnv/BondLib/BondLib/Bond.js",
+		"/Users/michaelcomes/Desktop/Random/2016-09-underbar/spec/part1.js",
+		"/Users/michaelcomes/Desktop/Random/2016-09-underbar/SpecRunner.html",
+		"/Users/michaelcomes/Desktop/TestEnv/finance.js/node_modules/chai/package.json",
+		"/Users/michaelcomes/Desktop/TestEnv/finance.js/node_modules/mocha/index.js",
+		"/Users/michaelcomes/Desktop/TestEnv/finance.js/test/index.js",
+		"/Users/michaelcomes/Desktop/TestEnv/finance.js/package.json",
+		"/Users/michaelcomes/Desktop/TestEnv/BondLib/BondLib/package.json",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/KoansRunner.html",
+		"/Users/michaelcomes/Desktop/TestEnv/2016-09-underbar/SpecRunner.html",
+		"/Users/michaelcomes/Desktop/TestEnv/BondLib/BondLib/npm-debug.log",
+		"/Users/michaelcomes/Desktop/TestEnv/Finance/finance.js/finance.js",
+		"/Users/michaelcomes/Desktop/TestEnv/BondLib/BondLib/README.md",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/lib/underscore.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/SpecRunner.html",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/lib/mocha/mocha.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/src/untitled.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/src/parseJSON.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/spec/parseJSONSpec.js",
+		"/Users/michaelcomes/Desktop/TestEnv/algo.js",
+		"/Users/michaelcomes/Desktop/TestEnv/getDigits.js",
+		"/Users/michaelcomes/Desktop/MEAN/app.js",
+		"/Users/michaelcomes/Desktop/MEAN/index.html",
+		"/Users/michaelcomes/Desktop/TestEnv/testCallback.js",
+		"/Users/michaelcomes/Downloads/http.js",
+		"/Users/michaelcomes/Desktop/EJS/06_object/code/chapter/06_object.js",
+		"/Users/michaelcomes/Desktop/EJS/06_object/code/mountains.js",
+		"/Users/michaelcomes/Desktop/EJS/06_object/code/chapter/TestCh6.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/2016-09-recursion/2016-09-recursion/spec/parseJSONSpec.js",
+		"/Users/michaelcomes/Desktop/TestEnv/EJS.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/src/getElementsByClassName.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/spec/getElementsByClassNameSpec.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/2016-09-recursion/spec/stringifyJSONSpec.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/src/stringifyJSON.js",
+		"/Users/michaelcomes/Desktop/TestEnv/reco.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/src/test.js",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/Stylesheet.css",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/twittlerFrontEnd.js",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/jquery.js",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/index.html",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/data_generator.js",
+		"/Users/michaelcomes/Desktop/another.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/spec/stringifyJSONSpec.js",
+		"/Users/michaelcomes/Desktop/Precourse/2016-09-recursion/spec/fixtures.js",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/snowstorm-min.js",
+		"/Users/michaelcomes/Desktop/Untitled.html",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/spec/stringifyJSONSpec.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/lib/jquery.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/untitled.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/spec/fixtures.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/src/parseJSON.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/SpecRunner.html",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/src/stringifyJSON.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/src/getElementsByClassName.js",
+		"/Users/michaelcomes/Desktop/stringifyJSONLOCAL.js",
+		"/Users/michaelcomes/Desktop/getElementClassName.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/spec/getElementsByClassNameSpec.js",
+		"/Users/michaelcomes/floobits/comesm/MichaelAndFin/GetElementsByClass.js",
+		"/Users/michaelcomes/Desktop/2016-09-twittler/arraytest.js",
+		"/Users/michaelcomes/Desktop/Precourse/HTML_AND_CSS/Styles-conference/index.html",
+		"/Users/michaelcomes/Desktop/2016-09-underbar/SpecRunner.html",
+		"/Users/michaelcomes/Desktop/2016-09-underbar/spec/part1.js",
+		"/Users/michaelcomes/Desktop/2016-09-underbar/src/underbar.js",
+		"/Users/michaelcomes/floobits/anaheilmann/BillandAna/advanced.js",
+		"/Users/michaelcomes/Library/Application Support/Sublime Text 3/Packages/User/Javascript.sublime-build",
+		"/Users/michaelcomes/Desktop/Google_files/test.js",
+		"/Users/michaelcomes/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelcomes/2016-09-underbar/src/underbar.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/lib/underscore.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/lib/FILL_ME_IN.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutHigherOrderFunctions.js",
+		"/Users/michaelcomes/2016-09-underbar/SpecRunner.html",
+		"/Users/michaelcomes/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+		"/Users/michaelcomes/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime_build",
+		"/Users/michaelcomes/Desktop/Precourse/underbar1/2016-09-underbar/src/underbar.js",
+		"/Users/michaelcomes/floobits/welcome.md",
+		"/Users/michaelcomes/share_me/.floo",
+		"/Users/michaelcomes/Desktop/Precourse/Assessment1/JSFundamentals-Assessment/FizzBuzz-Assessment/fizzbuzz.js",
+		"/Users/michaelcomes/Desktop/Precourse/Assessment1/JSFundamentals-Assessment/HTML&CSS-Assessment/list.css",
+		"/Users/michaelcomes/Desktop/Precourse/Assessment1/JSFundamentals-Assessment/HTML&CSS-Assessment/list.html",
+		"/Users/michaelcomes/Desktop/Precourse/Assessment1/JSFundamentals-Assessment/FizzBuzz-Assessment/readme.md",
+		"/Users/michaelcomes/Desktop/Precourse/underbar1/2016-09-underbar/SpecRunner.html",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutApplyingWhatWeHaveLearnt.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutInheritance.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutMutability.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutObjects.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutFunctions.js",
+		"/Users/michaelcomes/Desktop/Precourse/Koans/2016-09-javascript-koans/koans/AboutArrays.js",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/cow_test.js",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/Cow.js",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/Index.html",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/vendor/mocha/mocha.js",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/vendor/cow_test.js",
+		"/Users/michaelcomes/Desktop/Precourse/Testing/Sinon.js",
+		"/Users/michaelcomes/Desktop/Precourse/git_tutorial/work/hello/Rakefile.rb",
+		"/Users/michaelcomes/Desktop/Precourse/git_tutorial/work/hello/hello.rb",
+		"/Users/michaelcomes/Desktop/TestFile.txt",
+		"/Users/michaelcomes/Desktop/Precourse/HTML_AND_CSS/Styles-conference/Assets/stylesheets/main.css",
+		"/Users/michaelcomes/Desktop/Precourse/CSS/Styles-conference/schedule.html",
+		"/Users/michaelcomes/Desktop/Precourse/CSS/Styles-conference/venue.html",
+		"/Users/michaelcomes/Desktop/Precourse/CSS/Styles-conference/Assets/stylesheets/main.css",
+		"/Users/michaelcomes/Desktop/Precourse/CSS/Styles-conference/register.html",
+		"/Users/michaelcomes/Desktop/Precourse/CSS/Styles-conference/speakers.html",
+		"/Users/michaelcomes/Desktop/Precourse/Assets/stylesheets/main.css",
+		"/Users/michaelcomes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelcomes/Desktop/Precourse/Testy.css",
+		"/Users/michaelcomes/Desktop/Precourse/index.html",
+		"/Users/michaelcomes/Desktop/Precourse/TestFile.js",
+		"/Users/michaelcomes/Documents/CAInvoice.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"mocha.run",
+			"run",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 189.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Javascript.sublime-build",
+	"project": "Bond.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
